@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+## I'm Mia, a biomedical engineering major at UT Austin
+- 🌱 I’m currently learning web development
+- ⚡ Fun fact: I'm a proficient knitter!
+- 📫 How to reach me: Email me @ miacaseychapin@utexas.edu
+  
 <!--
 **miacc05/miacc05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
