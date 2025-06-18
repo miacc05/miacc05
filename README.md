@@ -1,5 +1,4 @@
-## Hi there 👋
-## I'm Mia, a biomedical engineering major at UT Austin
+## Hi there 👋 I'm Mia, a biomedical engineering major at UT Austin
 - 🌱 I’m currently learning web development
 - ⚡ Fun fact: I'm a proficient knitter!
 - 📫 How to reach me: Email me @ miacaseychapin@utexas.edu
